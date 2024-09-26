@@ -13,7 +13,7 @@ This project investigates electronic sales data from September 2023 to September
 4. Trend Identification: Detecting patterns in purchasing behavior based on factors like age, gender, and loyalty membership, providing actionable insights for marketing strategies.
 
 
-**Installation and Usage** ⚙️
+**Installation and Usage:** ⚙️
 
 1. Clone the repository:
 
