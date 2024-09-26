@@ -40,7 +40,7 @@ This project investigates electronic sales data from September 2023 to September
 
 
 
-**Dependencies** 📦
+**Dependencies:** 📦
 
 1. Python 3.x
 2. Jupyter Notebook
