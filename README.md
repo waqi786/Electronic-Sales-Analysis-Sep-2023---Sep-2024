@@ -51,7 +51,7 @@ This project investigates electronic sales data from September 2023 to September
 7. Plotly (for interactive visualizations)
 
 
-**Dataset** 📊
+**Dataset:** 📊
 
 The dataset includes various factors influencing electronic sales, covering:
 
