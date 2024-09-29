@@ -1,6 +1,6 @@
 # Electronic-Sales-Analysis-Sep-2023---Sep-2024
 
-**Overview:** 🌟
+**Overview** 🌟
 
 This project investigates electronic sales data from September 2023 to September 2024 through comprehensive Exploratory Data Analysis (EDA). The analysis aims to uncover trends and insights into customer behavior, product preferences, and the impact of demographic factors on sales performance. By employing various data visualization techniques, this project explores key aspects such as customer age, gender distribution, loyalty program effectiveness, and add-on purchases.
 
